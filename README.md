@@ -1,1 +1,1 @@
-# GT_lab6
+# Game Theory Labs
